@@ -1,4 +1,4 @@
-[![The World's Most Powerful Visual Copilot](./demo/banner.png)](https://coreviz.io)
+[![The World's Most Powerful Visual Copilot](https://github.com/coreviz/sdk/raw/main/demo/banner.png)](https://coreviz.io)
 
 <div align="center">
     <h1>CoreViz</h1>
@@ -23,6 +23,6 @@
 CoreViz is a Vision AI platform for teams and individuals working with thousands of visual assets.
 
   <p align="center">
-    <a href="https://coreviz.io"><img alt="CoreViz" src="./demo/demo.gif"></a>
+    <a href="https://coreviz.io"><img alt="CoreViz" src="https://github.com/coreviz/sdk/raw/main/demo/demo.gif"></a>
   </p>
 </div>
